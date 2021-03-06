@@ -121,7 +121,7 @@ process.on("SIGINT", () => {
 			spinner.fail("Fail - sku directories not available.");
 			return;
 		}
-		return;
+		
 		/**************************
 		 * MAP ALL DIRECTORIES DATA
 		 *************************/
