@@ -7,4 +7,4 @@
 node_modules export-ignore
 package-lock.json export-ignore
 .editorconfig export-ignore
-**/*.zip
+**/*.zip export-ignore
